@@ -1,0 +1,12 @@
+bs4
+curses
+feedparser
+mattsollamatools
+newspaper
+nltk
+numpy
+pyttsx3
+scikit-learn
+sentence_transformers
+unicodedata
+utils
